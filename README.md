@@ -1,1 +1,1 @@
-# Javascript_study
+# Web_study
